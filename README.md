@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @totavi
-- 👀 I’m interested in statistics,machine learning and programming with R
-- 🌱 I’m currently learning Spark 
-- 💞️ I’m looking to collaborate on Spark and Hadoop
+- 👀 I’m interested in Statistics, Machine Learning and Programming with R
+- 🌱 I’m currently learning Spark and Sparklyr
+- 💞️ I’m looking to collaborate on Spark,Sparklyr and Hadoop
 - 📫 tommi.viitanen@gmail.com
 
 <!---
